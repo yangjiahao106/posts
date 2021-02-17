@@ -1,3 +1,9 @@
+---
+title: go如何等待所有的goroutine结束
+date: 2019-06-02 16:58:40
+tags:
+---
+
 golang中当main函数结束后，整个程序就退出了，不会等待其他的携程执行完毕，那么如何等待所有的goroutine结束？下面介绍两种方法。 
 
 ### 1.使用cnannel实现

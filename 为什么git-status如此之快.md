@@ -1,6 +1,5 @@
 ---
-layout: 为什么git
-title: status如此之快？
+title: 为什么git status如此之快？
 date: 2021-02-08 19:06:08
 tags:
 ---

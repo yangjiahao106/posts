@@ -1,5 +1,5 @@
 ---
-title: mysql mvcc 实现
+title: mysql MVCC 的实现
 date: 2021-01-10 16:05:59
 tags: 
 ---

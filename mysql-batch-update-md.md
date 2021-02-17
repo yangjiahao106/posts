@@ -1,5 +1,5 @@
 ---
-title: mysql-batch-update.md
+title: mysql批量更新的几种方法.md
 date: 2019-11-01 23:18:17
 tags:
 ---
