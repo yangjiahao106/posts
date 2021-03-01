@@ -2,6 +2,7 @@
 title: git reset revert checkout的区别
 date: 2019-08-18 16:58:40
 tags:
+- git
 ---
 
 # git reset, revert, checkout

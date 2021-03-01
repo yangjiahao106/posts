@@ -2,6 +2,7 @@
 title: git revert merge
 date: 2019-06-29 20:22:49
 tags:
+- git
 ---
 
 # git revert merge 

@@ -2,6 +2,7 @@
 title: go匿名函数使用外部变量
 date: 2019-07-02 23:52:12
 tags:
+- golang
 ---
 
 defer 的匿名函数中引用了外部变量a，a 的值在for循环结束最后会被设为"mouse", 所以defer中的输出都为"mouse"

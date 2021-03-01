@@ -2,6 +2,7 @@
 title: redis作为消息队列
 date: 2021-02-20 12:39:06
 tags:
+description: redis作为消息队列
 ---
 
 # redis 作为消息队列

@@ -2,6 +2,7 @@
 title: golang 匿名函数中使用外部变量
 date: 2019-06-02 23:41:19
 tags:
+- golang
 ---
 
 
