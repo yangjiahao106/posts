@@ -1,5 +1,4 @@
 ---
-layout: redis
 title: 缓存穿透
 date: 2021-02-25 00:55:24
 tags:

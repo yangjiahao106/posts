@@ -1,11 +1,15 @@
 
 ---
 title: docker 部署kafka
-date: 2022-09-29 20:20:01
+date: 2022-03-29 20:20:01
 tags:
 ---
 
 # docker 部署 kafka 
+
+  镜像使用 bitnami/zookeeper
+  注意  KAFKA_CFG_LISTENERS 为在容器中绑定的地址和端口
+       KAFKA_CFG_ADVERTISED_LISTENERS 为映射到容器外的地址和端口。
 
 ```yaml
 
